@@ -1,0 +1,420 @@
+type,skill,job,cv
+general,product,8,13
+general,,7,17
+general,are,7,0
+soft,team,4,2
+general,is,4,0
+general,source,4,0
+general,have,4,0
+soft,experience,3,3
+general,manager,3,2
+general,company,3,2
+general,product manager,3,2
+hard,software,2,2
+general,skills,2,2
+general,new,2,1
+general,understanding,2,1
+general,customer,2,1
+general,stakeholders,2,1
+general,free,2,1
+hard,data,2,0
+general,experienced,2,0
+general,responsible,2,0
+general,needs,2,0
+general,improving,2,0
+general,n26com,2,0
+general,least,2,0
+general,strong,2,0
+general,priorities,2,0
+general,not,2,0
+general,lunch,2,0
+general,source n26com,2,0
+hard,development,1,5
+hard,technical,1,2
+general,build,1,2
+general,market,1,2
+general,lifecycle,1,2
+general,manage,1,2
+general,ux,1,2
+soft,ability,1,1
+soft,research,1,1
+general,industry,1,1
+general,vision,1,1
+general,customers,1,1
+general,roadmaps,1,1
+general,met,1,1
+general,communicating,1,1
+general,crossfunctional,1,1
+general,eg,1,1
+general,maintaining,1,1
+general,business,1,1
+general,agile,1,1
+general,well,1,1
+general,top,1,1
+general,gym,1,1
+general,membership,1,1
+general,free gym,1,1
+general,gym membership,1,1
+general,free gym membership,1,1
+hard,windows,1,0
+hard,customer service,1,0
+hard,analytics,1,0
+soft,collaborating,1,0
+soft,customer service,1,0
+soft,interpersonal,1,0
+soft,motivated,1,0
+general,job,1,0
+general,description,1,0
+general,template,1,0
+general,seeking,1,0
+general,successful,1,0
+general,candidate,1,0
+general,be,1,0
+general,bringing,1,0
+general,lines,1,0
+general,consumers,1,0
+general,engaging,1,0
+general,functional,1,0
+general,way,1,0
+general,opening,1,0
+general,up,1,0
+general,fresh,1,0
+general,distribution,1,0
+general,channels,1,0
+general,other,1,0
+general,departments,1,0
+general,indeed,1,0
+general,founding,1,0
+general,brings,1,0
+general,significant,1,0
+general,venture,1,0
+general,broad,1,0
+general,automate,1,0
+general,offices,1,0
+general,world,1,0
+general,make,1,0
+general,lives,1,0
+general,easier,1,0
+general,share,1,0
+general,passion,1,0
+general,reduce,1,0
+general,workflow,1,0
+general,future,1,0
+general,more,1,0
+general,productive,1,0
+general,workplace,1,0
+general,happy,1,0
+general,hear,1,0
+general,responsibilities,1,0
+general,taking,1,0
+general,full,1,0
+general,ownership,1,0
+general,life,1,0
+general,cycle,1,0
+general,creating,1,0
+general,implementing,1,0
+general,timelines,1,0
+general,processes,1,0
+general,developing,1,0
+general,interfacing,1,0
+general,operations,1,0
+general,sales,1,0
+general,service,1,0
+general,ensure,1,0
+general,desired,1,0
+general,economic,1,0
+general,operational,1,0
+general,kpis,1,0
+general,guiding,1,0
+general,success,1,0
+general,engineers,1,0
+general,designers,1,0
+general,qualifications,1,0
+general,bachelors,1,0
+general,degree,1,0
+general,relevant,1,0
+general,field,1,0
+general,background,1,0
+general,3,1,0
+general,years,1,0
+general,working,1,0
+general,preferably,1,0
+general,startup,1,0
+general,structured,1,0
+general,driven,1,0
+general,good,1,0
+general,digitally,1,0
+general,native,1,0
+general,solving,1,0
+general,complicated,1,0
+general,problems,1,0
+general,endcustomer,1,0
+general,part,1,0
+general,core,1,0
+general,strengths,1,0
+general,outgoing,1,0
+general,open,1,0
+general,minded,1,0
+general,person,1,0
+general,able,1,0
+general,motivate,1,0
+general,go,1,0
+general,extra,1,0
+general,mile,1,0
+general,same,1,0
+general,do,1,0
+general,handson,1,0
+general,mentality,1,0
+general,stress,1,0
+general,resistance,1,0
+general,weigh,1,0
+general,competing,1,0
+general,tradeoffs,1,0
+general,evaluate,1,0
+general,opportunistic,1,0
+general,ideas,1,0
+general,driving,1,0
+general,consensus,1,0
+general,clear,1,0
+general,focus,1,0
+general,overarching,1,0
+general,ladders,1,0
+general,last,1,0
+general,methodology,1,0
+general,definitely,1,0
+general,must,1,0
+general,excellent,1,0
+general,english,1,0
+general,written,1,0
+general,spoken,1,0
+general,profile,1,0
+general,young,1,0
+general,international,1,0
+general,performers,1,0
+general,office,1,0
+general,located,1,0
+general,heart,1,0
+general,downtown,1,0
+general,austin,1,0
+general,texas,1,0
+general,were,1,0
+general,always,1,0
+general,learning,1,0
+general,pushing,1,0
+general,boundaries,1,0
+general,thats,1,0
+general,first,1,0
+general,step,1,0
+general,fulfilling,1,0
+general,career,1,0
+general,special,1,0
+general,healthy,1,0
+general,deal,1,0
+general,employees,1,0
+general,thursdays,1,0
+general,can,1,0
+general,choose,1,0
+general,work,1,0
+general,macbook,1,0
+general,laptop,1,0
+general,manager job,1,0
+general,job description,1,0
+general,description template,1,0
+general,software company,1,0
+general,company is,1,0
+general,is seeking,1,0
+general,experienced product,1,0
+general,successful candidate,1,0
+general,candidate will,1,0
+general,will be,1,0
+general,be responsible,1,0
+general,bringing new,1,0
+general,new product,1,0
+general,product lines,1,0
+general,engaging functional,1,0
+general,functional way,1,0
+general,up fresh,1,0
+general,fresh distribution,1,0
+general,distribution channels,1,0
+general,other departments,1,0
+general,departments source,1,0
+general,source indeed,1,0
+general,founding team,1,0
+general,team brings,1,0
+general,brings significant,1,0
+general,significant experience,1,0
+general,software industry,1,0
+general,venture development,1,0
+general,broad vision,1,0
+general,customers easier,1,0
+general,reduce workflow,1,0
+general,more productive,1,0
+general,productive workplace,1,0
+general,are happy,1,0
+general,taking full,1,0
+general,full ownership,1,0
+general,product life,1,0
+general,life cycle,1,0
+general,understanding customer,1,0
+general,customer needs,1,0
+general,market data,1,0
+general,creating implementing,1,0
+general,implementing timelines,1,0
+general,roadmaps processes,1,0
+general,operations sales,1,0
+general,desired economic,1,0
+general,operational kpis,1,0
+general,kpis are,1,0
+general,are met,1,0
+general,product source,1,0
+general,crossfunctional team,1,0
+general,is responsible,1,0
+general,eg engineers,1,0
+general,engineers designers,1,0
+general,designers stakeholders,1,0
+general,bachelors degree,1,0
+general,relevant field,1,0
+general,strong technical,1,0
+general,technical background,1,0
+general,have 3,1,0
+general,3 ,1,0
+general, years,1,0
+general,working experience,1,0
+general,manager preferably,1,0
+general,startup company,1,0
+general,are strong,1,0
+general,analytics structured,1,0
+general,structured data,1,0
+general,data driven,1,0
+general,have good,1,0
+general,good interpersonal,1,0
+general,interpersonal skills,1,0
+general,are digitally,1,0
+general,digitally native,1,0
+general,native solving,1,0
+general,solving complicated,1,0
+general,complicated problems,1,0
+general,understanding endcustomer,1,0
+general,endcustomer needs,1,0
+general,needs are,1,0
+general,are part,1,0
+general,core strengths,1,0
+general,outgoing open,1,0
+general,open minded,1,0
+general,minded person,1,0
+general,extra mile,1,0
+general,mile same,1,0
+general,do source,1,0
+general,handson mentality,1,0
+general,mentality stress,1,0
+general,stress resistance,1,0
+general,weigh competing,1,0
+general,competing priorities,1,0
+general,priorities manage,1,0
+general,manage tradeoffs,1,0
+general,evaluate opportunistic,1,0
+general,opportunistic new,1,0
+general,new ideas,1,0
+general,stakeholders driving,1,0
+general,clear focus,1,0
+general,overarching business,1,0
+general,business priorities,1,0
+general,priorities source,1,0
+general,not least,1,0
+general,least experience,1,0
+general,ux is,1,0
+general,is definitely,1,0
+general,excellent english,1,0
+general,english skills,1,0
+general,skills written,1,0
+general,company profile,1,0
+general,young motivated,1,0
+general,motivated experienced,1,0
+general,international ,1,0
+general, team,1,0
+general,top performers,1,0
+general,office is,1,0
+general,is located,1,0
+general,downtown austin,1,0
+general,austin texas,1,0
+general,were always,1,0
+general,always learning,1,0
+general,pushing boundaries,1,0
+general,first step,1,0
+general,fulfilling career,1,0
+general,special lunch,1,0
+general,lunch healthy,1,0
+general,healthy deal,1,0
+general,employees ,1,0
+general,free lunch,1,0
+general,can choose,1,0
+general,windows laptop,1,0
+general,product manager job,1,0
+general,manager job description,1,0
+general,job description template,1,0
+general,software company is,1,0
+general,company is seeking,1,0
+general,experienced product manager,1,0
+general,successful candidate will,1,0
+general,candidate will be,1,0
+general,will be responsible,1,0
+general,bringing new product,1,0
+general,new product lines,1,0
+general,engaging functional way,1,0
+general,up fresh distribution,1,0
+general,fresh distribution channels,1,0
+general,other departments source,1,0
+general,departments source indeed,1,0
+general,founding team brings,1,0
+general,team brings significant,1,0
+general,brings significant experience,1,0
+general,more productive workplace,1,0
+general,taking full ownership,1,0
+general,product life cycle,1,0
+general,understanding customer needs,1,0
+general,creating implementing timelines,1,0
+general,operational kpis are,1,0
+general,kpis are met,1,0
+general,product source n26com,1,0
+general,eg engineers designers,1,0
+general,engineers designers stakeholders,1,0
+general,strong technical background,1,0
+general,have 3 ,1,0
+general,3  years,1,0
+general,product manager preferably,1,0
+general,analytics structured data,1,0
+general,structured data driven,1,0
+general,have good interpersonal,1,0
+general,good interpersonal skills,1,0
+general,are digitally native,1,0
+general,digitally native solving,1,0
+general,native solving complicated,1,0
+general,solving complicated problems,1,0
+general,understanding endcustomer needs,1,0
+general,endcustomer needs are,1,0
+general,needs are part,1,0
+general,outgoing open minded,1,0
+general,open minded person,1,0
+general,extra mile same,1,0
+general,do source n26com,1,0
+general,handson mentality stress,1,0
+general,mentality stress resistance,1,0
+general,weigh competing priorities,1,0
+general,competing priorities manage,1,0
+general,priorities manage tradeoffs,1,0
+general,evaluate opportunistic new,1,0
+general,opportunistic new ideas,1,0
+general,overarching business priorities,1,0
+general,business priorities source,1,0
+general,not least experience,1,0
+general,methodology as well,1,0
+general,ux is definitely,1,0
+general,excellent english skills,1,0
+general,english skills written,1,0
+general,young motivated experienced,1,0
+general,international  team,1,0
+general,office is located,1,0
+general,downtown austin texas,1,0
+general,were always learning,1,0
+general,special lunch healthy,1,0
+general,lunch healthy deal,1,0

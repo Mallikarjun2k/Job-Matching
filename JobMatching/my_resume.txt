@@ -1,0 +1,46 @@
+Passionate, value-driven product manager with experience leading cross-functional teams to plan, build, launch and manage world-class SaaS innovations. Blend technology skills with extensive Agile/Scrum experience, a marketing orientation and analytical abilities to evolve product strategy. Prioritize and manage multiple projects within specifications and budget restrictions.
+free gym membership
+Own the product lifecycle from initial concept to delivery. Skills include:
+
+Technical Product R&D
+Team Leadership
+Product Lifecycle Management
+Agile / Scrum Methodologies
+Go-to-Market Launch Plans
+Product Roadmaps
+SDLC
+UX / UI Design
+QA Testing
+SaaS Solutions
+Requirements Gathering & Analysis
+Market & Competitor Research
+Test-Driven Development
+Troubleshooting & Debugging
+Financial Modeling & Forecasting
+Professional Experience
+
+ABC COMPANY (SaaS solutions provider serving the banking industry) — Sometown, CA
+Product Manager, 2011 to Present
+
+Lead teams of 20+ development, engineering, product, design and marketing professionals in all phases of custom product solutions delivery (from requirements gathering through build, test phases, QA, launch and support) for banking and financial services clients. Results:
+
+Introduced groundbreaking product suite, a "Top New Tech" winner at global banking symposium
+
+Managed concept-to-launch of commercial banking front-end solution enabling real-time monitoring of online customer transactions. Top-selling product has generated $15M+ since its 2013 launch.
+Completed development and global market launch of cutting-edge SaaS solution for payment activity, accelerating average transaction-processing time from 24 hours to less than one minute.
+Led development of a suite of mobile apps providing bank customers with the ability to complete fast, secure transactions (e.g., account-to-account withdrawals, transfers, deposits and payments) as well as balance inquiries via mobile devices.
+Ensured products met or exceeded client expectations. Excelled at gathering feedback and requirements; communicating needed changes to development team; and overseeing seamless, high-quality rollouts to on-time and on-budget conclusion.
+Developed a deep understanding of the business objectives of internal and external stakeholders; evangelized the product vision and built trust by maintaining an accurate and achievable roadmap.
+Previous Software Engineering Role: Served as Technical Product & Software Engineer for DEF COMPANY (a Fortune 500 telecom leader), 2007 to 2011.
+
+Education
+
+MBA, Marketing Emphasis l XYZ University
+BS, Major in Computer Science l ZYX University
+Certificate in UX Design l ABC College
+
+Technology Summary
+
+Java, Groovy, C, C++, JavaScript, Angular JS, jQuery, Ruby, VBA
+Jersey, Spring MVC, Rails, Grails, Sinatra
+SQL (Postgres, MySQL); NoSQL (MongoDB); Liquibase, MyBatis, Hibernate
